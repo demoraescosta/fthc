@@ -1,0 +1,3 @@
+Usage: fthc [OPTIONS] ... FILE
+Options:
+  -i      Interpret file
