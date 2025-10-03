@@ -37,6 +37,7 @@ echo
 
 test_case "usage" "" ""
 test_case "sum"   "tests/sum.fth" "-i"
+test_case "conditionals"   "tests/conditionals.fth" "-i"
 
 echo Results:
 echo "    Passed: $PASSED"
